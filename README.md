@@ -3,6 +3,9 @@ This repository will contain various Python codes I have written,
 including topics like Computer Vision, Basic algorithm implementation
 and Useful Code snippets
 
+# Libraries Used:
+ numpy, opencv, scipy, matplotlib, math, imutlis
+
 # List:
  1.Camera_Capture.py
  
