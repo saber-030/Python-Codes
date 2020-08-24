@@ -17,4 +17,7 @@ and Useful Code snippets
  
  5.Video_Capture.py
  
- 6.
+ 6. DNA_DataStorage.ipynb
+ 
+# Supporting Files:
+For DNA_DataStorage.ipynb from Canterbury Corpus Dataset (Standard and Large)
