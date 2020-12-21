@@ -21,3 +21,6 @@ and Useful Code snippets
  
 # Supporting Files:
 For DNA_DataStorage.ipynb from Canterbury Corpus Dataset (Standard and Large)
+
+# Credits:
+Credits https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/ for the document scanner 
